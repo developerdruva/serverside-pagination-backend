@@ -1,0 +1,15 @@
+{
+  "name": "backend-ssp",
+  "version": "1.0.0",
+  "description": "an ecommerce application for online shopping....................",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajesh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
